@@ -20,13 +20,6 @@ Formulário de Contato: Permite que os usuários entrem em contato via Formspree
 
 Links Rápidos: Redirecionamento para LinkedIn, GitHub e e-mail.
 
-📂 Estrutura do Projeto
-📂 fg-solucoes-web
-├── 📄 index.html   # Estrutura principal do site
-├── 📄 style.css    # Estilização do site
-├── 📄 script.js    # Funções interativas
-└── 📄 README.md    # Documentação do projeto
-
 📜 Como Utilizar
 
 Clone o repositório:
