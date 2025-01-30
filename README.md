@@ -24,7 +24,7 @@ Links Rápidos: Redirecionamento para LinkedIn, GitHub e e-mail.
 
 Clone o repositório:
 
-git clone https://github.com/SEU-USUARIO/fg-solucoes-web.git
+git clone https://github.com/FRANCISCODORSCHEIDT/fgsolucoesweb
 
 Abra o arquivo index.html no navegador.
 
